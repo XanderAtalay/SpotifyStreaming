@@ -1,0 +1,4 @@
+spotify_client_id = 'b952d6b51a5a42ef8428c9233eaef417'
+spotify_client_secret = '06260d66c035412b8dc164f28e262674'
+
+genius_api_token = 'pa73JKiirwSK1U3yjXcjNzMIvbbvjtWX1EloFozXi30deyjSgTR1xARF6gfJb3Wv'
